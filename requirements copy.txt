@@ -1,0 +1,7 @@
+matplotlib
+pandas
+streamlit
+folium
+plotly.express
+st_folium
+Nominatim
